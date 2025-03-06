@@ -1,4 +1,3 @@
-# HLD_Questions
 
 # High-Level Design (HLD) Interview Guide
 
