@@ -1,4 +1,3 @@
-
 # High-Level Design (HLD) Interview Guide
 
 ## 1. Understand the HLD Interview Format
@@ -21,6 +20,12 @@
 #### Resources:
 - **Books:** "Designing Data-Intensive Applications" by Martin Kleppmann
 - **Articles:** High Scalability Blog, System Design Primer (GitHub)
+- **Courses:**
+  - [Grokking the System Design Interview (Educative)](https://www.educative.io/courses/grokking-the-system-design-interview)
+  - [Exponent System Design Course](https://www.tryexponent.com/system-design-interview)
+- **Free Resources:**
+  - [System Design Primer on GitHub](https://github.com/donnemartin/system-design-primer)
+  - [High Scalability Blog](http://highscalability.com/)
 
 ### Step 2: Master Key System Design Components
 #### Key Components:
@@ -31,6 +36,7 @@
 - **Storage:** Object storage, block storage, file systems
 - **APIs:** REST, gRPC, WebSockets
 - **Networking:** DNS, TCP/IP, HTTP/2, QUIC
+- **Security:** OAuth, JWT, HTTPS, Rate Limiting
 
 ### Step 3: Practice Common System Design Problems
 #### Beginner:
@@ -45,35 +51,42 @@
 - Google Search, Google Maps, distributed file system
 
 #### Resources:
-- **YouTube:** Gaurav Sen, System Design Interview
-- **Courses:** Grokking the System Design Interview (Educative), Exponent
+- **YouTube:**
+  - [Gaurav Sen - System Design Playlist](https://www.youtube.com/c/GauravSen)
+  - [System Design Interview by Exponent](https://www.youtube.com/c/ExponentTV)
+- **Practice Platforms:**
+  - [LeetCode System Design Questions](https://leetcode.com/)
+  - [Pramp - Mock Interviews](https://www.pramp.com/)
+  - [Interviewing.io - Mock System Design Interviews](https://interviewing.io/)
 
 ### Step 4: Learn to Communicate Effectively
 - Clarify requirements
 - Break down the problem into components
 - Explain trade-offs
 - Use diagrams
+- Use tools like [Excalidraw](https://excalidraw.com/) for system design diagrams
 
 ### Step 5: Mock Interviews
 - Practice with peers or mentors
 - Use platforms like Pramp, Interviewing.io, Exponent
 - Record sessions for improvement
 
-## 3. Resources for HLD Preparation
+## 3. Additional Resources for HLD Preparation
 ### Free Resources
-- **GitHub:** System Design Primer
-- **High Scalability Blog**
-- **YouTube Channels:** Gaurav Sen, System Design Interview
+- **GitHub:** [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- **High Scalability Blog**: [http://highscalability.com/](http://highscalability.com/)
+- **YouTube Channels:**
+  - [Gaurav Sen](https://www.youtube.com/c/GauravSen)
+  - [System Design Interview - Exponent](https://www.youtube.com/c/ExponentTV)
 
 ### Paid Resources
-- **Grokking the System Design Interview (Educative)**
-- **Exponent System Design Course**
-- **Book:** "Designing Data-Intensive Applications"
+- **Grokking the System Design Interview (Educative):** [Link](https://www.educative.io/courses/grokking-the-system-design-interview)
+- **Exponent System Design Course:** [Link](https://www.tryexponent.com/system-design-interview)
+- **Book:** "Designing Data-Intensive Applications" by Martin Kleppmann
 
-### Practice Platforms
-- LeetCode System Design Questions
-- Pramp
-- Interviewing.io
+### Additional Study Guides
+- [ByteByteGo System Design Guide](https://blog.bytebytego.com/)
+- [Designing Distributed Systems by Brendan Burns](https://www.oreilly.com/library/view/designing-distributed-systems/9781491983638/)
 
 ## 4. Step-by-Step Approach to Solve HLD Problems
 1. **Clarify Requirements:** Understand scope, constraints
@@ -102,6 +115,15 @@
 | 5 | Learn advanced concepts (distributed consensus, sharding) |
 | 6 | Practice advanced problems (Google Search, distributed file systems) |
 | 7 | Mock interviews and refine communication skills |
+
+## 7. Additional System Design Questions
+For more system design questions, refer to:
+- [LeetCode System Design Questions](https://leetcode.com/)
+- [ByteByteGo Blog](https://blog.bytebytego.com/)
+- [Grokking System Design Course](https://www.educative.io/courses/grokking-the-system-design-interview)
+
+By following this roadmap and practicing consistently, you’ll be well-prepared for your HLD interview. Good luck! 🚀
+
 
 ## 7. 50 Top System Design Interview Questions
 ### Beginner-Level Questions
